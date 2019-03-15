@@ -8,7 +8,11 @@ It implements the following features:
 • Fragments
 • Notifications
 • CustomViews (both extended from and developed from "scratch"
-• Animations
+• Animations (sliding and shaking)
+• ExpandView
+• CardView
+• ListView with adapter
+• Rating Bar
 • Threads & Asynchronous Tasks, but "Async Tasks" were later replaced by Thread due to better 
   results in performance while handling image changing animations.
 
